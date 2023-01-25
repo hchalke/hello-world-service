@@ -1,1 +1,1 @@
-# hello-world-service
+React JS app that displays Hello World Message

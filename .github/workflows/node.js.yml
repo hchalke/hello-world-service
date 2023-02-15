@@ -30,4 +30,4 @@ jobs:
     - run: npm run build --if-present
     - run: npm test
     - name: Run TestCafe tests
-      run: npx testcafe chrome test.js
+      run: npx testcafe chrome:headless test.js
